@@ -1,0 +1,1 @@
+/Users/apple/Documents/Programming/RUST/GUI_1/target/debug/GUI_1: /Users/apple/Documents/Programming/RUST/GUI_1/src/app.rs /Users/apple/Documents/Programming/RUST/GUI_1/src/geometry/mod.rs /Users/apple/Documents/Programming/RUST/GUI_1/src/geometry/scara.rs /Users/apple/Documents/Programming/RUST/GUI_1/src/main.rs
